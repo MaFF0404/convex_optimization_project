@@ -1,4 +1,4 @@
-文件描述：1. GeoD_SD_AFG.m为MATLAB实现的对比实验代码，2. research.pdf为项目报告， 3. article为参考文献。
+文件描述：GeoD_SD_AFG.m为MATLAB实现的对比实验代码，research.pdf为项目报告，article为参考文献。
 
 项目描述：
 
